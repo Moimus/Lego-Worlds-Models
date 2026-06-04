@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="Test">
+    <Meta>
+        <Application name="NONE" versionMajor="1" versionMinor="0" />
+        <Brand name="LDDExtended" />
+        <Environment name="Standard" />
+        <BrickSet version="1007" />
+        <ModelRepository experience="NONE" scanDate="2018-07-05T14:07:16Z" />
+    </Meta>
+    <Cameras>
+        <Camera refID="0" fieldOfView="80" distance="100" transformation="0,0,0,0,0,0,0,0,0,0,0,0" />
+    </Cameras>
+    <Bricks cameraRef="0">
+        <Brick refID="0" designID="3031">
+            <Part refID="0" designID="3031" materials="199" MaterialType="LegoBrick_Solid_DarkStoneGrey" RGBA="98,98,98,1.000000">
+                <Bone refID="0" transformation="0,0,1,0,1,0,-1,0,0,6.000000000000000,1.600000143051147,-6.800000190734863" />
+            </Part>
+        </Brick>
+    </Bricks>
+    <RigidSystems>
+        <RigidSystem>
+            <Rigid refID="0" transformation="0,0,0,0,0,0,0,0,0,0,0,0" boneRefs="0" />
+        </RigidSystem>
+    </RigidSystems>
+    <GroupSystems>
+        <GroupSystem />
+    </GroupSystems>
+    <BuildingInstructions>
+        <BuildingInstruction name="BuildingGuide1">
+            <Camera cameraRef="0" />
+            <Step name="Step1">
+                <PartRef partRef="0" />
+            </Step>
+        </BuildingInstruction>
+    </BuildingInstructions>
+</LXFML>

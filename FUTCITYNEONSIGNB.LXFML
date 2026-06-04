@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="Test">
+    <Meta>
+        <Application name="NONE" versionMajor="1" versionMinor="0" />
+        <Brand name="LDDExtended" />
+        <Environment name="Standard" />
+        <BrickSet version="1007" />
+        <ModelRepository experience="NONE" scanDate="2018-09-21T23:43:15Z" />
+    </Meta>
+    <Cameras>
+        <Camera refID="0" fieldOfView="80" distance="100" transformation="0,0,0,0,0,0,0,0,0,0,0,0" />
+    </Cameras>
+    <Bricks cameraRef="0">
+        <Brick refID="0" designID="14716">
+            <Part refID="0" designID="14716" materials="0" MaterialType="CrystalSeamBG" RGBA="0,32,49,1.000000">
+                <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,2.560000181198120,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="1" designID="14716">
+            <Part refID="1" designID="14716" materials="0" MaterialType="CrystalSeamBG" RGBA="0,49,16,1.000000">
+                <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,2.560000181198120,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="2" designID="3070">
+            <Part refID="2" designID="3070" materials="26" MaterialType="LegoBrick_Solid_Black" RGBA="24,24,24,1.000000">
+                <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,5.440000534057617,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="3" designID="3070">
+            <Part refID="3" designID="3070" materials="26" MaterialType="LegoBrick_Solid_Black" RGBA="24,24,24,1.000000">
+                <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,2.240000009536743,-0.399999976158142" />
+            </Part>
+        </Brick>
+        <Brick refID="4" designID="3070">
+            <Part refID="4" designID="3070" materials="26" MaterialType="LegoBrick_Solid_Black" RGBA="24,24,24,1.000000">
+                <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,5.440000534057617,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="5" designID="3070">
+            <Part refID="5" designID="3070" materials="26" MaterialType="LegoBrick_Solid_Black" RGBA="24,24,24,1.000000">
+                <Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,2.240000009536743,-1.199999928474426" />
+            </Part>
+        </Brick>
+        <Brick refID="6" designID="3070">
+            <Part refID="6" designID="3070" materials="26" MaterialType="LegoBrick_Solid_Black" RGBA="24,24,24,1.000000">
+                <Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,4.800000190734863,-1.999999880790710" />
+            </Part>
+        </Brick>
+        <Brick refID="7" designID="3070">
+            <Part refID="7" designID="3070" materials="26" MaterialType="LegoBrick_Solid_Black" RGBA="24,24,24,1.000000">
+                <Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,2.880000114440918,-1.999999880790710" />
+            </Part>
+        </Brick>
+    </Bricks>
+    <RigidSystems>
+        <RigidSystem>
+            <Rigid refID="0" transformation="0,0,0,0,0,0,0,0,0,0,0,0" boneRefs="0" />
+        </RigidSystem>
+    </RigidSystems>
+    <GroupSystems>
+        <GroupSystem />
+    </GroupSystems>
+    <BuildingInstructions>
+        <BuildingInstruction name="BuildingGuide1">
+            <Camera cameraRef="0" />
+            <Step name="Step1">
+                <PartRef partRef="0" />
+            </Step>
+        </BuildingInstruction>
+    </BuildingInstructions>
+</LXFML>

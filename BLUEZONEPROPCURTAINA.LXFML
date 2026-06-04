@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="Test">
+    <Meta>
+        <Application name="NONE" versionMajor="1" versionMinor="0" />
+        <Brand name="LDDExtended" />
+        <Environment name="Standard" />
+        <BrickSet version="1007" />
+        <ModelRepository experience="NONE" scanDate="2019-06-06T14:12:49Z" />
+    </Meta>
+    <Cameras>
+        <Camera refID="0" fieldOfView="80" distance="100" transformation="0,0,0,0,0,0,0,0,0,0,0,0" />
+    </Cameras>
+    <Bricks cameraRef="0">
+        <Brick refID="0" designID="2431">
+            <Part refID="0" designID="2431" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,10.880001068115234,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="1" designID="30136">
+            <Part refID="1" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,2.240000009536743,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="2" designID="30136">
+            <Part refID="2" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,3.200000286102295,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="3" designID="30136">
+            <Part refID="3" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,4.159999847412109,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="4" designID="30136">
+            <Part refID="4" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,5.120000362396240,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="5" designID="30136">
+            <Part refID="5" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,6.080000400543213,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="6" designID="30136">
+            <Part refID="6" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,7.040000438690186,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="7" designID="30136">
+            <Part refID="7" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,8.000000000000000,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="8" designID="30136">
+            <Part refID="8" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="8" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,8.960000038146973,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="9" designID="30136">
+            <Part refID="9" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="9" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,9.920000076293945,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="10" designID="85984">
+            <Part refID="10" designID="85984" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="10" transformation="0,0,-1,0,1,0,1,0,0,7.599999904632568,11.520000457763672,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="11" designID="2431">
+            <Part refID="11" designID="2431" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="11" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,10.880001068115234,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="12" designID="85984">
+            <Part refID="12" designID="85984" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="12" transformation="0,0,1,0,1,0,-1,0,0,6.800000190734863,11.520000457763672,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="13" designID="98138">
+            <Part refID="13" designID="98138" materials="315" MaterialType="LegoBrick_Metal_SilverMetallic" RGBA="139,139,139,1.000000">
+                <Bone refID="13" transformation="-1,0,0,0,1,0,0,0,-1,7.599999904632568,11.199999809265137,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="14" designID="98138">
+            <Part refID="14" designID="98138" materials="315" MaterialType="LegoBrick_Metal_SilverMetallic" RGBA="139,139,139,1.000000">
+                <Bone refID="14" transformation="-1,0,0,0,1,0,0,0,-1,7.599999904632568,11.199999809265137,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="15" designID="98138">
+            <Part refID="15" designID="98138" materials="315" MaterialType="LegoBrick_Metal_SilverMetallic" RGBA="139,139,139,1.000000">
+                <Bone refID="15" transformation="-1,0,0,0,1,0,0,0,-1,8.399999618530273,11.199999809265137,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="16" designID="85984">
+            <Part refID="16" designID="85984" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="16" transformation="0,0,-1,0,1,0,1,0,0,9.199999809265137,11.520000457763672,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="17" designID="98138">
+            <Part refID="17" designID="98138" materials="315" MaterialType="LegoBrick_Metal_SilverMetallic" RGBA="139,139,139,1.000000">
+                <Bone refID="17" transformation="-1,0,0,0,1,0,0,0,-1,8.399999618530273,11.199999809265137,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="18" designID="30136">
+            <Part refID="18" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="18" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,2.240000009536743,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="19" designID="30136">
+            <Part refID="19" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="19" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,3.200000286102295,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="20" designID="30136">
+            <Part refID="20" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="20" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,4.159999847412109,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="21" designID="30136">
+            <Part refID="21" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="21" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,5.120000362396240,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="22" designID="30136">
+            <Part refID="22" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="22" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,6.080000400543213,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="23" designID="30136">
+            <Part refID="23" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="23" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,7.040000438690186,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="24" designID="30136">
+            <Part refID="24" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="24" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,8.000000000000000,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="25" designID="30136">
+            <Part refID="25" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="25" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,8.960000038146973,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="26" designID="30136">
+            <Part refID="26" designID="30136" materials="283" MaterialType="LegoBrick_Solid_LightNougat" RGBA="222,197,148,1.000000">
+                <Bone refID="26" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,9.920000076293945,-8.399999618530273" />
+            </Part>
+        </Brick>
+        <Brick refID="27" designID="85984">
+            <Part refID="27" designID="85984" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="27" transformation="0,0,1,0,1,0,-1,0,0,8.399999618530273,11.520000457763672,-7.599999904632568" />
+            </Part>
+        </Brick>
+    </Bricks>
+    <RigidSystems>
+        <RigidSystem>
+            <Rigid refID="0" transformation="0,0,0,0,0,0,0,0,0,0,0,0" boneRefs="0" />
+        </RigidSystem>
+    </RigidSystems>
+    <GroupSystems>
+        <GroupSystem />
+    </GroupSystems>
+    <BuildingInstructions>
+        <BuildingInstruction name="BuildingGuide1">
+            <Camera cameraRef="0" />
+            <Step name="Step1">
+                <PartRef partRef="0" />
+            </Step>
+        </BuildingInstruction>
+    </BuildingInstructions>
+</LXFML>

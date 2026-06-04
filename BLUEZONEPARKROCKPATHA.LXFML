@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="Test">
+    <Meta>
+        <Application name="NONE" versionMajor="1" versionMinor="0" />
+        <Brand name="LDDExtended" />
+        <Environment name="Standard" />
+        <BrickSet version="1007" />
+        <ModelRepository experience="NONE" scanDate="2019-07-03T12:03:27Z" />
+    </Meta>
+    <Cameras>
+        <Camera refID="0" fieldOfView="80" distance="100" transformation="0,0,0,0,0,0,0,0,0,0,0,0" />
+    </Cameras>
+    <Bricks cameraRef="0">
+        <Brick refID="0" designID="98138">
+            <Part refID="0" designID="98138" materials="199" MaterialType="LegoBrick_Solid_DarkStoneGrey" RGBA="98,98,98,1.000000">
+                <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,7.599999904632568,1.280000090599060,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="1" designID="14769">
+            <Part refID="1" designID="14769" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,7.599999904632568,1.280000090599060,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="2" designID="98138">
+            <Part refID="2" designID="98138" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,7.599999904632568,1.280000090599060,-13.199998855590820" />
+            </Part>
+        </Brick>
+        <Brick refID="3" designID="14769">
+            <Part refID="3" designID="14769" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,8.399999618530273,1.280000090599060,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="4" designID="98138">
+            <Part refID="4" designID="98138" materials="199" MaterialType="LegoBrick_Solid_DarkStoneGrey" RGBA="98,98,98,1.000000">
+                <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,9.199999809265137,1.280000090599060,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="5" designID="14769">
+            <Part refID="5" designID="14769" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,9.199999809265137,1.280000090599060,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="6" designID="98138">
+            <Part refID="6" designID="98138" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,10.000000000000000,1.280000090599060,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="7" designID="14769">
+            <Part refID="7" designID="14769" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,10.000000000000000,1.280000090599060,-10.799999237060547" />
+            </Part>
+        </Brick>
+        <Brick refID="8" designID="98138">
+            <Part refID="8" designID="98138" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="8" transformation="1,0,0,0,1,0,0,0,1,10.799999237060547,1.280000090599060,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="9" designID="14769">
+            <Part refID="9" designID="14769" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="9" transformation="1,0,0,0,1,0,0,0,1,11.599999427795410,1.280000090599060,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="10" designID="98138">
+            <Part refID="10" designID="98138" materials="199" MaterialType="LegoBrick_Solid_DarkStoneGrey" RGBA="98,98,98,1.000000">
+                <Bone refID="10" transformation="1,0,0,0,1,0,0,0,1,11.599999427795410,1.280000090599060,-11.599999427795410" />
+            </Part>
+        </Brick>
+        <Brick refID="11" designID="98138">
+            <Part refID="11" designID="98138" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="11" transformation="1,0,0,0,1,0,0,0,1,11.599999427795410,1.280000090599060,-12.399998664855957" />
+            </Part>
+        </Brick>
+        <Brick refID="12" designID="98138">
+            <Part refID="12" designID="98138" materials="2" MaterialType="LegoBrick_Solid_Grey" RGBA="164,164,164,1.000000">
+                <Bone refID="12" transformation="1,0,0,0,1,0,0,0,1,11.599999427795410,1.280000090599060,-13.199998855590820" />
+            </Part>
+        </Brick>
+        <Brick refID="13" designID="98138">
+            <Part refID="13" designID="98138" materials="199" MaterialType="LegoBrick_Solid_DarkStoneGrey" RGBA="98,98,98,1.000000">
+                <Bone refID="13" transformation="1,0,0,0,1,0,0,0,1,13.199998855590820,1.280000090599060,-10.000000000000000" />
+            </Part>
+        </Brick>
+        <Brick refID="14" designID="98138">
+            <Part refID="14" designID="98138" materials="199" MaterialType="LegoBrick_Solid_DarkStoneGrey" RGBA="98,98,98,1.000000">
+                <Bone refID="14" transformation="1,0,0,0,1,0,0,0,1,13.199998855590820,1.280000090599060,-12.399998664855957" />
+            </Part>
+        </Brick>
+    </Bricks>
+    <RigidSystems>
+        <RigidSystem>
+            <Rigid refID="0" transformation="0,0,0,0,0,0,0,0,0,0,0,0" boneRefs="0" />
+        </RigidSystem>
+    </RigidSystems>
+    <GroupSystems>
+        <GroupSystem />
+    </GroupSystems>
+    <BuildingInstructions>
+        <BuildingInstruction name="BuildingGuide1">
+            <Camera cameraRef="0" />
+            <Step name="Step1">
+                <PartRef partRef="0" />
+            </Step>
+        </BuildingInstruction>
+    </BuildingInstructions>
+</LXFML>

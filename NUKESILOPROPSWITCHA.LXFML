@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0" name="Test">
+    <Meta>
+        <Application name="NONE" versionMajor="1" versionMinor="0" />
+        <Brand name="LDDExtended" />
+        <Environment name="Standard" />
+        <BrickSet version="1007" />
+        <ModelRepository experience="NONE" scanDate="2024-06-20T18:54:16Z" />
+    </Meta>
+    <Cameras>
+        <Camera refID="0" fieldOfView="80" distance="100" transformation="0,0,0,0,0,0,0,0,0,0,0,0" />
+    </Cameras>
+    <Bricks cameraRef="0">
+        <Brick refID="0" designID="50746">
+            <Part refID="0" designID="50746" materials="330" MaterialType="LegoBrick_Solid_OliveGreen" RGBA="115,115,74,1.000000">
+                <Bone refID="0" transformation="-1,0,0,0,1,0,0,0,-1,6.000000000000000,3.840000152587891,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="1" designID="24246">
+            <Part refID="1" designID="24246" materials="43" MaterialType="CrystalSeamW" RGBA="0,32,0,1.000000">
+                <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,3.520000219345093,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="2" designID="24246">
+            <Part refID="2" designID="24246" materials="41" MaterialType="LegoBrick_Trans_Red" RGBA="180,0,0,0.498039">
+                <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,3.200000286102295,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="3" designID="3069">
+            <Part refID="3" designID="3069" materials="330" MaterialType="LegoBrick_Solid_OliveGreen" RGBA="115,115,74,1.000000">
+                <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,2.560000181198120,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="4" designID="25269">
+            <Part refID="4" designID="25269" materials="28" MaterialType="LegoBrick_Solid_DarkGreen" RGBA="0,131,41,1.000000">
+                <Bone refID="4" transformation="-1,0,0,0,1,0,0,0,-1,6.000000000000000,2.240000009536743,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="5" designID="25269">
+            <Part refID="5" designID="25269" materials="191" MaterialType="LegoBrick_Solid_FlameYelOrange" RGBA="255,172,0,1.000000">
+                <Bone refID="5" transformation="-1,0,0,0,1,0,0,0,-1,6.000000000000000,1.920000076293945,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="6" designID="3069">
+            <Part refID="6" designID="3069" materials="330" MaterialType="LegoBrick_Solid_OliveGreen" RGBA="115,115,74,1.000000">
+                <Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,1.600000143051147,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="7" designID="98138">
+            <Part refID="7" designID="98138" materials="21" MaterialType="LegoBrick_Solid_BrightRed" RGBA="180,0,0,1.000000">
+                <Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,6.800000190734863,2.880000114440918,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="8" designID="98138">
+            <Part refID="8" designID="98138" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="8" transformation="-1,0,0,0,1,0,0,0,-1,6.800000190734863,1.920000076293945,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="9" designID="98138">
+            <Part refID="9" designID="98138" materials="315" MaterialType="LegoBrick_Metal_White" RGBA="255,255,255,1.000000">
+                <Bone refID="9" transformation="-1,0,0,0,1,0,0,0,-1,6.800000190734863,2.240000009536743,-7.599999904632568" />
+            </Part>
+        </Brick>
+        <Brick refID="10" designID="3070">
+            <Part refID="10" designID="3070" materials="330" MaterialType="LegoBrick_Solid_OliveGreen" RGBA="115,115,74,1.000000">
+                <Bone refID="10" transformation="1,0,0,0,1,0,0,0,1,6.000000000000000,2.880000114440918,-7.599999904632568" />
+            </Part>
+        </Brick>
+    </Bricks>
+    <RigidSystems>
+        <RigidSystem>
+            <Rigid refID="0" transformation="0,0,0,0,0,0,0,0,0,0,0,0" boneRefs="0" />
+        </RigidSystem>
+    </RigidSystems>
+    <GroupSystems>
+        <GroupSystem />
+    </GroupSystems>
+    <BuildingInstructions>
+        <BuildingInstruction name="BuildingGuide1">
+            <Camera cameraRef="0" />
+            <Step name="Step1">
+                <PartRef partRef="0" />
+            </Step>
+        </BuildingInstruction>
+    </BuildingInstructions>
+</LXFML>
